@@ -28,3 +28,5 @@ The WeatherAPIClient project is highly useful for students and beginners who wan
 
 In conclusion, this project successfully demonstrates how Java can be used to build a REST API client that retrieves and processes live data from the internet. It provides a clear understanding of web communication, data parsing, and application design, making it a valuable learning experience and a strong addition to any academic or professional portfolio.
 
+OUTPUT:-<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/f5f08c1a-d8f1-4053-a114-8e073a663869" />
+
